@@ -3,6 +3,7 @@
 /node_modules
 /build
 jenkins-data
+jenkins-docker-certs
 
 # Logs
 logs

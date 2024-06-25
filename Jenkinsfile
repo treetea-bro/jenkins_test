@@ -15,6 +15,8 @@ pipeline {
             }
             steps {
                 sh 'node --version'
+                sh 'docker'
+                sh 'docker compose'
             }
         }
     }
